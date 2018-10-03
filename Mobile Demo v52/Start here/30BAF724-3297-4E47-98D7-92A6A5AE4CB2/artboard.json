@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "543AD4E7-8336-465B-9DB4-2B0E37456E6D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30BAF724-3297-4E47-98D7-92A6A5AE4CB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E9FB015-8595-408D-B2C8-BFF08F4F86A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A5DAC646-1484-439A-88E4-41ED1C50F7CC",
+    "height": 1200,
+    "width": 576,
+    "x": 875,
+    "y": -451
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F8988EA0-8C68-4F90-9040-4A0B1BB417EE",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 20
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A99F0C7-44B7-40F4-B0A8-DF596A0448B6",
+    "guides": [
+      291
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1174584D-B168-4081-A899-F932FA65FE3C"
+    },
+    {
+      "class": "text",
+      "id": "C2FF692A-182E-4176-8513-CFFEDBA9C98D"
+    },
+    {
+      "class": "text",
+      "id": "38244E71-23F5-4129-8CED-E54D6AA78333"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 33,
+    "do_objectID": "BDB03671-1F82-4D56-B1A8-D4007B73F3F9",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16.36363636363636,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 576
+  },
+  "name": "Sign up",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3247997C-EA68-410A-95EF-FE0575B4085B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E17A435-BECA-4DE5-921E-E369D5671C89",
+    "guides": [
+      194,
+      291,
+      291,
+      388,
+      557,
+      1068
+    ]
+  }
+}

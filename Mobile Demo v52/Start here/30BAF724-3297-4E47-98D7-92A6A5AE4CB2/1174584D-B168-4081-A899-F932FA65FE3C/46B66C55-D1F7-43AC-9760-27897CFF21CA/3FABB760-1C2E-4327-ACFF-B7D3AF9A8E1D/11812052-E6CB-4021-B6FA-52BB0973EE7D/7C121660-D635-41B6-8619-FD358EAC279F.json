@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C121660-D635-41B6-8619-FD358EAC279F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8960B0A-81FF-4240-8121-2F66FDD05A36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68FEB928-3F15-4854-A905-BD8AEE138221",
+    "height": 246,
+    "width": 341,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Haiku-animation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E2161FD-0300-4420-9099-549DFA3BD1DD",
+      "overrideName": "6AE23732-C1B0-4E19-8FDB-E6A685DA0303_stringValue",
+      "value": "mount-Sketch2React-SuperHero"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE61A150-12B0-4138-BD17-7B27E0788FD1",
+      "overrideName": "C151F4F8-F6CB-4E04-BED0-D4D786680321_stringValue",
+      "value": "https://code.haiku.ai/scripts/core/HaikuCore.4.3.0.min.js"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "353C1440-E77B-4001-9D93-9230BEEC5096",
+      "overrideName": "DC03D4C4-A57D-46D2-A5AA-FA7EF84083E9_stringValue",
+      "value": "https://cdn.haiku.ai/5d813b01-8d19-4ceb-967a-f8f8fc5957c1/734f3de65a1159d82f8682d9b47f68089c2259cf/index.embed.js"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42C35661-3CAD-4911-9AAA-9FD050D9DDEF",
+      "overrideName": "197AC725-6150-4F6F-93AD-024FA8970ADF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9725885097ec02a3115865e3b753eb59df82daea.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B664B95-02E2-4F81-A15F-4C79D664AAAF",
+      "overrideName": "3C2FCF17-CE11-48B9-A161-A3DB0DCD8212_stringValue",
+      "value": "{loop:true, contextMenu: 'disabled'}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CBC0D01-138C-4FFE-B4EE-47E8FE507AF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "237907B8-64EE-4A4B-A8A5-CDE6564B8A5D",
+  "verticalSpacing": 0
+}

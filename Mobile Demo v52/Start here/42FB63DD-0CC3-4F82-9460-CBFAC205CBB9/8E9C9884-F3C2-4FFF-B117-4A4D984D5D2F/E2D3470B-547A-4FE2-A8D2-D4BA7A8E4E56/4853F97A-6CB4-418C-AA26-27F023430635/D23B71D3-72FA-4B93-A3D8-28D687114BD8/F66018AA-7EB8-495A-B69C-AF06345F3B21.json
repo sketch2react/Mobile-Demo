@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F66018AA-7EB8-495A-B69C-AF06345F3B21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82429959-48A1-48CE-8B16-E1ECF4D57A9E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4473B55E-DE1C-4CCB-ADB2-A952F96D3451"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4124939-3E4A-467A-A5B4-3104E23198DB",
+    "height": 86,
+    "width": 185,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "{button-primary} [m10]",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9967803-587C-4E41-999D-30DBFA47B9A3",
+      "overrideName": "DE492C7B-309E-4A6E-8D48-ECFF996A2101_stringValue",
+      "value": "About The Day"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "832FDB95-8288-4193-AE9B-3EDBFD654757",
+      "overrideName": "5195BC0C-A73F-49C8-8CD8-CDB4279DC5E5_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB0F7FB3-883F-44EF-A9A5-0F678FDC5103",
+      "overrideName": "DFD8002B-14DE-4B74-A5C6-8C852F79C003_stringValue",
+      "value": "./day.html"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCCE369D-26F6-42BD-B9AC-BD60218DFDB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7216BF0-F49F-4590-9DEC-3E82059B1C0E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

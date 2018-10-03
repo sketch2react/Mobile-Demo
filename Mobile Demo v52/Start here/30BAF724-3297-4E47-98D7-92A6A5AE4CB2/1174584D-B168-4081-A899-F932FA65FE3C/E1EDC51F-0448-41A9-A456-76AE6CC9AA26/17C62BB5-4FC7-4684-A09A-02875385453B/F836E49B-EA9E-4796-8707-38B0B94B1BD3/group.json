@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F836E49B-EA9E-4796-8707-38B0B94B1BD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12E2742D-6A33-4945-A2EE-E3EDC1295F07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DD7CCFC-9260-4474-BC8A-5F13DCD8F741",
+    "height": 62,
+    "width": 366,
+    "x": 5,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE393097-59D7-48DC-B1B0-BBAE1822047D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4317FB4B-05AE-42B6-ABF3-E78812D56EF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57626DB4-2C82-44B1-AEA7-5C1486DC6DCD"
+    }
+  ],
+  "name": "{nav} [hcenter pl15 pt15 pb15]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80A5D99D-5142-4E34-A018-72AF0DB2C547",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "blue"
+    }
+  }
+}

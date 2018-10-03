@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6F2D37F-0D9B-4574-80FB-F93DD23BAC6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB810822-561F-4AB3-BABC-E1D1D2637F11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "30BAF724-3297-4E47-98D7-92A6A5AE4CB2"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9D9C4FB-DCEA-4522-9CAF-A2409F6F98C0",
+    "height": 60,
+    "width": 214,
+    "x": 156,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "{nav-item}",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A0EA66B-E797-4870-8D8D-B1D13EF476B3_stringValue",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "998F5CCC-13A6-4D44-B09D-18630F7DD9B9_stringValue",
+      "value": "Sign up"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A873C26F-9335-4728-A682-FCE955035D54_stringValue",
+      "value": "artboard:Sign up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EB0D344-7C2E-491A-8FF1-EB756131B0AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DCB3A01-6CCA-4055-9C0A-DF96FFA2FAA3",
+  "verticalSpacing": 0
+}

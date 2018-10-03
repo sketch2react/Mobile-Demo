@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2EBC409-3248-4727-970B-413A9F0B53CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88C06FD9-C92A-4656-A542-9D4AF996BA3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "30BAF724-3297-4E47-98D7-92A6A5AE4CB2"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31DC068B-EA16-4580-9CFA-E63982DE17A0",
+    "height": 86,
+    "width": 187,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A29AD51-514E-4CC7-9247-C0B80AEEE8A4",
+      "overrideName": "DE492C7B-309E-4A6E-8D48-ECFF996A2101_stringValue",
+      "value": "Sign up here"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE278F4F-B236-4BBD-98A6-F7FCAF393FF0",
+      "overrideName": "5195BC0C-A73F-49C8-8CD8-CDB4279DC5E5_stringValue",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAA686C3-4EB5-485B-8A77-CBAD64481233",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7216BF0-F49F-4590-9DEC-3E82059B1C0E",
+  "verticalSpacing": 0
+}

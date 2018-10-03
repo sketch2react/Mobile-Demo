@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C8B7C14E-D197-48D0-B334-6FF01EE2E0EE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4473B55E-DE1C-4CCB-ADB2-A952F96D3451",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF4701D9-FDBC-4CC4-9709-D1AF1F5D9172",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "32555417-858D-4725-8AFE-116B7DA7DBF7",
+    "height": 2175,
+    "width": 576,
+    "x": 199,
+    "y": -451
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6AC61BE5-6173-467A-9472-3040BCCEC9D0",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 20
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D35FE59-33BC-4139-B199-6EB231A706CB",
+    "guides": [
+      291,
+      150
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "64B85A7A-088E-4D5C-BB4E-75236AEFD13E"
+    },
+    {
+      "class": "text",
+      "id": "D05251F3-F7C1-47DD-B808-8EF9670C76EC"
+    },
+    {
+      "class": "text",
+      "id": "DB663F26-1453-4949-9DF6-5E0F9A1DAC0A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 33,
+    "do_objectID": "6F0B71D8-2970-4CC4-BAA8-C837C9E0CBD3",
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16.36363636363636,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 576
+  },
+  "name": "Day",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91102E26-18A7-46B9-8ECA-B31C487FE8B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2133B12A-11FA-44C1-9E45-723FBDCE6580",
+    "guides": [
+      194,
+      291,
+      291,
+      388,
+      557,
+      1068
+    ]
+  }
+}

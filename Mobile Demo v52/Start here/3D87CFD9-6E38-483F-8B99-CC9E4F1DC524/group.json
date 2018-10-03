@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D87CFD9-6E38-483F-8B99-CC9E4F1DC524",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D6040AA-6DDD-4B46-8EB4-A255E8F8F1CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60BEF52C-3007-4E54-8007-85ADC3F07277",
+    "height": 160,
+    "width": 414,
+    "x": -1129,
+    "y": -248
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BFFF4E99-57B7-4E11-867C-4688C58CBDE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46FFD9D4-66A0-4C84-BE73-DD3515B59C37"
+    }
+  ],
+  "name": "LinkBubble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B0651DE-8396-40F6-8071-A9E6EC77BD2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

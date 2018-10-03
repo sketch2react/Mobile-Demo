@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B313777-9DE0-49A8-8C2A-D49ADD695B24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46B0C96A-8CDA-4A95-B9D1-9F361D0824DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5202B8E-C9CF-485A-A65D-B96870B51CDA",
+    "height": 86,
+    "width": 132,
+    "x": 7,
+    "y": 133
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Submit",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE6C114A-59AD-4D95-9DB3-DCB944C0A8B9",
+      "overrideName": "F2A07BB8-1BD7-4393-9957-ACB2F8455E85_stringValue",
+      "value": "submit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FF35E70-8A5D-4BA7-8F33-F4C237F1A8A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "688D5F37-802F-481B-91A9-C36DCC377A91",
+  "verticalSpacing": 0
+}

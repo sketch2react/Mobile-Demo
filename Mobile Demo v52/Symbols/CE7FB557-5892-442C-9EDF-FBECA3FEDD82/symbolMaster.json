@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2DECBFDE-CB2D-45A3-A864-ED3E4BDE22E8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3751,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE7FB557-5892-442C-9EDF-FBECA3FEDD82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1859F6AF-59A8-4BE9-A668-1810F26FE9FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CACFD7B1-1503-4A52-9358-73C2CF7A80D8",
+    "height": 278,
+    "width": 144,
+    "x": 385,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D5F5EE2-0825-4BB1-A919-CB6D8D01D305",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5F52E22E-C2EA-4FF4-9BC0-2B71E2A2A0E8"
+    }
+  ],
+  "name": "Forms/Form",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F660316-4DB2-4AEE-A591-6F8BF5A3B98B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AFF4E495-0C0F-4DAC-BAE6-2214FFE9BFCD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AEF87320-C054-4B31-9021-58639AFC123E",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2E24053E-261B-4000-B2C4-FE47C3B24C19",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2857,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8683E00-9BF9-46E7-9FFF-0828F648C254",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8715F757-E513-4ABF-B60F-2F86A3324702",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64FDADD2-BBEA-4C3D-8CD9-314112D6F091",
+    "height": 60,
+    "width": 214,
+    "x": 729,
+    "y": 160
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7983DA4-CFFE-4F4D-AE53-619D1869ACC2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "065C8351-FCC7-4F10-B78F-01CD660A7C50"
+    }
+  ],
+  "name": "Navigation/nav-item-light",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EC19A30-EEDC-4DEA-B482-FA434D778368",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DCB3A01-6CCA-4055-9C0A-DF96FFA2FAA3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D43970A1-9483-4221-86C4-345788E2B765",
+    "guides": [
+    ]
+  }
+}

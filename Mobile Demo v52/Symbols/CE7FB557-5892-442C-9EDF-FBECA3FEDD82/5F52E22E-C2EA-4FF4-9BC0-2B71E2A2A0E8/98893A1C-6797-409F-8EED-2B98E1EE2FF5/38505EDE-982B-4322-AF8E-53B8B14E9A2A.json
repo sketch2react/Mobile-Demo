@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "38505EDE-982B-4322-AF8E-53B8B14E9A2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DDCD6CC-92C7-4835-8DD6-F45587397E43",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAA97E24-E1AE-4D0E-8F2B-602FE37B41C2",
+    "height": 24,
+    "width": 135,
+    "x": 0,
+    "y": 25
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "{input}",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B77541E-CD46-4B6D-946E-08433F363DB7",
+      "overrideName": "41CE5697-01A7-49B7-A045-579D4DBBD125_stringValue",
+      "value": "email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE82AB83-7A73-409B-AEB5-462EA142557A",
+      "overrideName": "4078ACBD-5EE7-416C-85AF-8FE12C28FF62_stringValue",
+      "value": "youremail@blaha.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F89132E3-B365-4771-B2C9-C2B4B538BA59",
+      "overrideName": "8EA03031-42EB-4D51-BC78-E2807A134D7F_stringValue",
+      "value": "emailField"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF445D68-1BF4-41C5-A74A-922EB883322B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8A246E28-2130-4163-8F3E-F85CCD5365F0",
+  "verticalSpacing": 0
+}

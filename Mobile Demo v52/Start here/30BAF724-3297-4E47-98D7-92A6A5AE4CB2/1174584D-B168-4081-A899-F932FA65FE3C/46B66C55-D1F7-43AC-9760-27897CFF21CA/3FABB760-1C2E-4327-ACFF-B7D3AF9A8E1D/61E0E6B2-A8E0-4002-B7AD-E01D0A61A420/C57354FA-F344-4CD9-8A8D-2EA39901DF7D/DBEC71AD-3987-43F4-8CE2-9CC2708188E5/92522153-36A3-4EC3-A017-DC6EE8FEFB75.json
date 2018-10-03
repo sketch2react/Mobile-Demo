@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "92522153-36A3-4EC3-A017-DC6EE8FEFB75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 278,
+    "width": 248,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4B313777-9DE0-49A8-8C2A-D49ADD695B24/C6094538-FDB5-4DF8-B2DB-B7E9424E5C54_stringValue",
+      "value": "Give us everything!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F11E06A-A31E-4DF8-A732-14C2D215E366",
+      "overrideName": "38505EDE-982B-4322-AF8E-53B8B14E9A2A/0E49CD2D-61E6-4B1C-9C94-37997930965E_stringValue",
+      "value": "Fill in your email here dude"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C54891D1-D175-4FD8-82F6-2DF947F5533E",
+      "overrideName": "81D44BAE-C4D2-48E0-9A36-94D962677DB5/0E49CD2D-61E6-4B1C-9C94-37997930965E_stringValue",
+      "value": "Make it stick"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AFF4E495-0C0F-4DAC-BAE6-2214FFE9BFCD",
+  "verticalSpacing": 0
+}

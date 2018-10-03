@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE393097-59D7-48DC-B1B0-BBAE1822047D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CD87EF8-0B25-40D9-9632-6F705B329EF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "42FB63DD-0CC3-4F82-9460-CBFAC205CBB9"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1EB094D-429A-4710-B2BF-63BCFA5F37C8",
+    "height": 60,
+    "width": 214,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "{nav-item}",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "052429F8-5740-43E6-BCB3-BFB1BEB44843",
+      "overrideName": "A873C26F-9335-4728-A682-FCE955035D54_stringValue",
+      "value": "artboard:Start"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE5FC815-00A4-41FF-82FA-95BDEE4F24D8",
+      "overrideName": "998F5CCC-13A6-4D44-B09D-18630F7DD9B9_stringValue",
+      "value": "Night"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7948647-3513-41B9-92BD-496780829C72",
+      "overrideName": "7A0EA66B-E797-4870-8D8D-B1D13EF476B3_stringValue",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3A0F37E-70FE-43F3-8B29-66586DAC963E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DCB3A01-6CCA-4055-9C0A-DF96FFA2FAA3",
+  "verticalSpacing": 0
+}

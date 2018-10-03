@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFCE9AF4-6AC6-4CA2-9007-6043232A4B74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28B28587-2F24-4666-85F7-E5961FE0CA7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48CFFC07-7A26-4297-A05A-8BB04DF85970",
+    "height": 129,
+    "width": 606,
+    "x": -1129,
+    "y": -451
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CCCAA413-C9B1-4A05-A4EA-CDF8A15C8B9C"
+    },
+    {
+      "class": "group",
+      "id": "51FC5C08-B863-47FE-B35E-372084F21557"
+    },
+    {
+      "class": "shapePath",
+      "id": "C83090E4-EA1B-4ABE-A0E0-97815CB5BA9F"
+    }
+  ],
+  "name": "TipBubble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C42477F-7626-4676-A9FF-36FC95673CC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

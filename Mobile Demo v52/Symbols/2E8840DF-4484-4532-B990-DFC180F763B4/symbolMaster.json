@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F407A58D-2E8F-4AB6-BC41-9B9EB2CA1EF5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1774,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E8840DF-4484-4532-B990-DFC180F763B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E3C4E0C-4497-4187-8C3D-24B29665DCB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6FC01A1-052E-4A69-8915-8A62D95520DA",
+    "height": 24,
+    "width": 135,
+    "x": 385,
+    "y": 378
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5057521E-9BD6-46F9-9485-C2E312AD8060",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B3C4068E-9BB1-44A1-A3EE-4149E4ADEFA5"
+    }
+  ],
+  "name": "Forms/Input-field",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD50B65D-DDA1-40E0-9B85-DAEFD269AB81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8A246E28-2130-4163-8F3E-F85CCD5365F0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E19D06E2-9359-4BDD-B9A6-0DD947634293",
+    "guides": [
+    ]
+  }
+}
