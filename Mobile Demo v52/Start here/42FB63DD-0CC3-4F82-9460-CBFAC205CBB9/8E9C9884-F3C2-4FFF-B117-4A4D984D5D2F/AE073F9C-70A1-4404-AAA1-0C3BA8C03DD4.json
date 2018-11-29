@@ -98,8 +98,8 @@
         "fillType": 1,
         "gradient": {
           "_class": "gradient",
-          "elipseLength": 1,
-          "from": "{0.5, 0.84088714059552072}",
+          "elipseLength": 0,
+          "from": "{0.76813837789533546, 1.1094241297915088}",
           "gradientType": 0,
           "stops": [
             {
@@ -107,9 +107,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.92,
-                "green": 0.46,
-                "red": 0.6823333333333333
+                "blue": 0.01568627450980392,
+                "green": 0.5607843137254902,
+                "red": 0.9921568627450981
               },
               "position": 0
             },
@@ -118,14 +118,58 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.65,
-                "green": 0.5427499999999998,
-                "red": 0.221
+                "blue": 0.2901960784313726,
+                "green": 0.4862745098039216,
+                "red": 0.9490196078431372
+              },
+              "position": 0.2
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4431372549019608,
+                "green": 0.4117647058823529,
+                "red": 0.8941176470588236
+              },
+              "position": 0.4
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5803921568627451,
+                "green": 0.3333333333333333,
+                "red": 0.8274509803921568
+              },
+              "position": 0.6000000000000001
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7137254901960784,
+                "green": 0.2549019607843137,
+                "red": 0.7372549019607844
+              },
+              "position": 0.8
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8470588235294118,
+                "green": 0.1764705882352941,
+                "red": 0.615686274509804
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 0.43244789000496325}"
+          "to": "{0, 0.5}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -137,5 +181,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

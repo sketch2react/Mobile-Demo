@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "THE NIGHT"
+    "string": "THE NIGHT YO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "870AD980-60EB-436F-888E-1C9A4F7B458D",
     "height": 64,
-    "width": 403,
+    "width": 529,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 11}, {390, 39}}",
+  "glyphBounds": "{{0, 11}, {514, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,5 +131,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
