@@ -47,7 +47,7 @@
     "_class": "style",
     "contextSettings": {
       "_class": "graphicsContextSettings",
-      "blendMode": 2,
+      "blendMode": 1,
       "opacity": 1
     },
     "do_objectID": "6D9529F5-5376-42C9-A0F7-32A42D984B0B",
@@ -55,5 +55,26 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 247,
+            "enabled": 1,
+            "modelID": "constraint_fb5d3047-9e80-4c17-bda0-1eb81a46a09b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 247
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c967a085-1ec3-4187-b717-6cfb5bbdde54",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }
