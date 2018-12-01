@@ -1,11 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "46B66C55-D1F7-43AC-9760-27897CFF21CA",
+  "do_objectID": "72CDCA5A-73C7-45E9-9BBD-4E6958B97A0B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B0B25B3E-AB1B-4033-84AB-C0AF46D80DFB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5C71A0B7-D363-4143-8D2F-1F9B3B972362",
-    "height": 900,
-    "width": 463,
-    "x": 62,
-    "y": 48
+    "height": 246,
+    "width": 341,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,22 +27,21 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "3FABB760-1C2E-4327-ACFF-B7D3AF9A8E1D"
+      "class": "symbolInstance",
+      "id": "7C121660-D635-41B6-8619-FD358EAC279F"
     }
   ],
-  "name": "🗄{container}",
-  "nameIsFixed": false,
+  "name": "{group-fixed}",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0906868D-42FA-451A-A504-B2F3FC1178AC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

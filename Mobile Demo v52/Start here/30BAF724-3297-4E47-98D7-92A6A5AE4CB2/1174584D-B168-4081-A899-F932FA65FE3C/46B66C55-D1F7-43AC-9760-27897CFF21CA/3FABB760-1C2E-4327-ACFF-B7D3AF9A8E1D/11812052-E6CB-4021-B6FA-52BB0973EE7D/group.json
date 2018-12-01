@@ -32,11 +32,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "7C121660-D635-41B6-8619-FD358EAC279F"
+      "class": "group",
+      "id": "72CDCA5A-73C7-45E9-9BBD-4E6958B97A0B"
     }
   ],
-  "name": "🗂{col} xs:12 lg:8 [hcenter mt20 mb20 ]",
+  "name": "🗂{col} xs:12 lg:6 [hcenter mt20 mb20 ]",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,5 +49,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
